@@ -171,82 +171,38 @@ export const boardData = {
 export const userData = [
   {
     name: {
-      firstName: 'John',
-      lastName: 'Doe',
+      firstName: 'Raghu',
+      lastName: 'G',
     },
-    address: '261 Erdman Ford',
-    city: 'East Daphne',
-    state: 'Kentucky',
+    address: 'steel plant',
+    city: 'Salem',
+    state: 'Tamil Nadu',
   },
   {
     name: {
-      firstName: 'Jane',
-      lastName: 'Doe',
+      firstName: 'Gopi',
+      lastName: 'S',
     },
-    address: '769 Dominic Grove',
-    city: 'Columbus',
-    state: 'Ohio',
+    address: 'steel plant',
+    city: 'Salem',
+    state: 'Tamil Nadu',
   },
   {
     name: {
-      firstName: 'Joe',
-      lastName: 'Doe',
+      firstName: 'Bhadrinathan',
+      lastName: 'A',
     },
-    address: '566 Brakus Inlet',
-    city: 'South Linda',
-    state: 'West Virginia',
+    address: 'Line Medu',
+    city: 'Salem',
+    state: 'Tamil Nadu',
   },
   {
     name: {
-      firstName: 'Kevin',
-      lastName: 'Vandy',
+      firstName: 'Akshaya',
+      lastName: 'D',
     },
-    address: '722 Emie Stream',
-    city: 'Lincoln',
-    state: 'Nebraska',
-  },
-  {
-    name: {
-      firstName: 'Joshua',
-      lastName: 'Rolluffs',
-    },
-    address: '32188 Larkin Turnpike',
-    city: 'Charleston',
-    state: 'South Carolina',
-  }, {
-    name: {
-      firstName: 'Jane',
-      lastName: 'Doe',
-    },
-    address: '769 Dominic Grove',
-    city: 'Columbus',
-    state: 'Ohio',
-  },
-  {
-    name: {
-      firstName: 'Joe',
-      lastName: 'Doe',
-    },
-    address: '566 Brakus Inlet',
-    city: 'South Linda',
-    state: 'West Virginia',
-  },
-  {
-    name: {
-      firstName: 'Kevin',
-      lastName: 'Vandy',
-    },
-    address: '722 Emie Stream',
-    city: 'Lincoln',
-    state: 'Nebraska',
-  },
-  {
-    name: {
-      firstName: 'Joshua',
-      lastName: 'Rolluffs',
-    },
-    address: '32188 Larkin Turnpike',
-    city: 'Charleston',
-    state: 'South Carolina',
+    address: 'Salem town',
+    city: 'Salem',
+    state: 'Tamil Nadu',
   },
 ]
