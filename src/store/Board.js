@@ -1,9 +1,11 @@
-import {create} from 'zustand'
-import {boardData} from '../data'
+import { create } from "zustand";
+import { boardData } from "../data";
 
-const useBoard = create((set)=> ({
+const useBoard = create((set) => {
+  return {
     board: boardData,
-    setBoard: (board)=> set((state)=> ({board}))
-}))
+    setBoard: (board) => set((state) => ({ board })),
+  };
+});
 
-export default useBoard
+export default useBoard;
